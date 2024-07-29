@@ -770,8 +770,32 @@ campaignTrail_temp.answers_json = [
         "pk": 123813,
         "fields": {
             "question": 123725,
-            "description": "put description here"
+            "description": "Florida. It's the state that won Bush the 2000 election, and it's one of the states we flipped to win against Obama four years ago. It's simple: we need Florida to win."
         }
+    }
+    {  
+        "model": "campaign_trail.answer",
+        "pk": 123814,
+        "fields": {
+            "question": 123725,
+            "description": "We can hit New Mexico and Arizona ─ they're important swing states this fall, and would significantly help us on our path to victory."
+        }
+    }
+    {  
+        "model": "campaign_trail.answer",
+        "pk": 123815,
+        "fields": {
+            "question": 123725,
+            "description": "Ohio is going to be important. We flipped it in 2012, and no Republican has won the White House without it."
+        }
+        {  
+        "model": "campaign_trail.answer",
+        "pk": 123816,
+        "fields": {
+            "question": 123725,
+            "description": "Look, this may be optimistic, but I have a good feeling about Virginia. We were real close to flipping it four years ago, and I think we can do it now."
+        }
+    }
     }
 ]
 
@@ -6859,28 +6883,6 @@ campaignTrail_temp.answer_score_state_json = [
             "candidate": 301,
             "affected_candidate": 300,
             "state_multiplier": -0.01
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_state",
-        "pk": 123777,
-        "fields": {
-            "answer": 123765,
-            "state": 1121,
-            "candidate": 301,
-            "affected_candidate": 300,
-            "state_multiplier": 0.02
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_state",
-        "pk": 123778,
-        "fields": {
-            "answer": 123765,
-            "state": 1149,
-            "candidate": 300,
-            "affected_candidate": 300,
-            "state_multiplier": 0.02
         }
     }
 ]
