@@ -522,7 +522,7 @@ campaignTrail_temp.answers_json = [
         "pk": 123590,
         "fields": {
             "question": 123487,
-            "description": "We need to tie Biden to the Obama administration. But we also need to be careful and vague, and focus on our strengths, not their faults."
+            "description": "Biden has adopted a distinctly populist tone in his campaign, there's no use tying him to Obama. The reality is that Biden is in cohort with radical socialists like Sanders and Warren, and we can hit him on that."
         }
     },
     {
@@ -4979,7 +4979,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 300,
             "state": 1102,
-            "state_multiplier": 1.08
+            "state_multiplier": 1.035
         }
     },
     {
@@ -5042,7 +5042,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 300,
             "state": 1109,
-            "state_multiplier": 1.0615
+            "state_multiplier": 1.04
         }
     },
     {
@@ -7201,7 +7201,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 123590,
             "candidate": 301,
             "affected_candidate": 300,
-            "global_multiplier": 0.01
+            "global_multiplier": 0.02
         }
     },
     {
@@ -9393,7 +9393,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 123590,
             "candidate": 301,
-            "answer_feedback": "This is an interesting strategy. Biden is a tough challenge, but maybe a contrast to your administration will work. Your years in charge have left a lot to be desired, though. Meanwhile, Senator Sanders, defeated in the primaries, has seen a grassroots write-in campaign launch massively in his home state of Vermont, with some polls putting him first."
+            "answer_feedback": "Biden has indeed taken on more populist rhetoric since his time as Vice-President. However, he is still a moderate Democrat evoking the Obama era. Hammering your point even further, Senator Sanders, defeated in the primaries, has seen a grassroots independent write-in campaign launch massively in his home state of Vermont, with some polls putting him first. This attack does not stick."
         }
     },
     {
