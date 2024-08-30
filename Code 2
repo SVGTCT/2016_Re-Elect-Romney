@@ -703,14 +703,6 @@ campaignTrail_temp.answers_json = [
     },
     {
         "model": "campaign_trail.answer",
-        "pk": 123695,
-        "fields": {
-            "question": 123494,
-            "description": "Leave means Leave! It's about bloody time we defended our borders from Islamist terrorists. Now those corrupt Brussels civil servants can get what they deserve, and our fishermen, farmers, and every Brit can reap the economic benefits of Brexit!"
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
         "pk": 123698,
         "fields": {
             "question": 123495,
@@ -7466,16 +7458,6 @@ campaignTrail_temp.answer_score_global_json = [
     },
     {
         "model": "campaign_trail.answer_score_global",
-        "pk": 123697,
-        "fields": {
-            "answer": 123695,
-            "candidate": 301,
-            "affected_candidate": 300,
-            "global_multiplier": 0.2
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_global",
         "pk": 123700,
         "fields": {
             "answer": 123698,
@@ -9592,15 +9574,6 @@ campaignTrail_temp.answer_feedback_json = [
             "answer": 123692,
             "candidate": 301,
             "answer_feedback": "French President Hollande calls you and asks if you're OK. You say you're not, the stress is getting to you ─ because that's the only way Mitt Romney would say this. Get ready to put a statement out."
-        }
-    },
-    {
-        "model": "campaign_trail.answer_feedback",
-        "pk": 123696,
-        "fields": {
-            "answer": 123695,
-            "candidate": 301,
-            "answer_feedback": "Friendly reminder: this is a 2016 Romney mod, not a 2017 UKIP one."
         }
     },
     {
