@@ -210,8 +210,8 @@ jet_data = {
     "windowColor": "#0d0359",
     "containerColor": "#ffa3a3",
     "innerWindowColor": "#ffebeb",
-    "bannerImageUrl": "https://i.postimg.cc/N0yb9X7m/Banners.png",
-    "backgroundImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Us_troops_in_syria.jpg",
+    "bannerImageUrl": "https://i.postimg.cc/cHKjK2PR/Banner.png",
+    "backgroundImageUrl": "https://i.postimg.cc/65VPGdbm/croppedshutterstock1752287450-BKAjpg.jpg",
     "endingTextColor": "#ffffff",
     "customQuote": "\"When it comes to pinning blame, pin the tail on the donkeys.\" ─ Mitt Romney",
     "gameTitle": "Re-Elect_Romney"
@@ -233,9 +233,9 @@ $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selected
 
 $(".container")[0].style.backgroundColor = "#ffa3a3";
 
-document.getElementById("header").src = "https://i.postimg.cc/N0yb9X7m/Banners.png";
+document.getElementById("header").src = "https://i.postimg.cc/cHKjK2PR/Banner.png";
 
-document.body.background = "https://upload.wikimedia.org/wikipedia/commons/4/49/Us_troops_in_syria.jpg";
+document.body.background = "https://i.postimg.cc/65VPGdbm/croppedshutterstock1752287450-BKAjpg.jpg";
 
 document.head.innerHTML += "<style>#results_container {color:#ffffff;} .inner_window_w_desc {background-color:#ffebeb!important;}</style>";
 
