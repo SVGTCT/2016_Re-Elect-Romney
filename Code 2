@@ -8502,7 +8502,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 123991,
         "fields": {
             "answer": 123622,
-            "issue": "110",
+            "issue": 110,
             "issue_score": -0.025,
             "issue_importance": 1.25
         }
@@ -8512,7 +8512,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 123992,
         "fields": {
             "answer": 123773,
-            "issue": "110",
+            "issue": 110,
             "issue_score": -0.05,
             "issue_importance": 1
         }
@@ -8522,7 +8522,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 123993,
         "fields": {
             "answer": 123923,
-            "issue": "110",
+            "issue": 110,
             "issue_score": -0.025,
             "issue_importance": 1
         }
@@ -8532,7 +8532,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 123994,
         "fields": {
             "answer": 123926,
-            "issue": "110",
+            "issue": 110,
             "issue_score": -0.05,
             "issue_importance": 1
         }
@@ -8542,7 +8542,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 123995,
         "fields": {
             "answer": 123931,
-            "issue": "110",
+            "issue": 110,
             "issue_score": 0.02,
             "issue_importance": 1
         }
@@ -8552,7 +8552,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "pk": 123996,
         "fields": {
             "answer": 123936,
-            "issue": "110",
+            "issue": 110,
             "issue_score": 0.01,
             "issue_importance": 1
         }
@@ -10009,8 +10009,8 @@ campaignTrail_temp.answer_feedback_json = [
     }
 ]
 
-campaignTrail_temp.candidate_image_url = "https://upload.wikimedia.org/wikipedia/commons/9/94/Mitt_Romney_in_2015.jpg";
-campaignTrail_temp.running_mate_image_url = "https://i.postimg.cc/nhWVmG3F/Paul-Ryan.jpg";
+campaignTrail_temp.candidate_image_url = "https://i.postimg.cc/436jW2CT/Romney.jpg";
+campaignTrail_temp.running_mate_image_url = "https://i.postimg.cc/nVXfJkBq/Ryan-205245-America.jpg";
 campaignTrail_temp.candidate_last_name = "Romney";
 campaignTrail_temp.running_mate_last_name = "Ryan";
 
@@ -10082,9 +10082,9 @@ campaignTrail_temp.jet_data = [{
     "banner_enabled": true,
     "banner_data": {
         "runName": "Ryan",
-        "runImage": "https://i.postimg.cc/nhWVmG3F/Paul-Ryan.jpg",
+        "runImage": "https://i.postimg.cc/nVXfJkBq/Ryan-205245-America.jpg",
         "canName": "Romney",
-        "canImage": "https://upload.wikimedia.org/wikipedia/commons/9/94/Mitt_Romney_in_2015.jpg"
+        "canImage": "https://i.postimg.cc/436jW2CT/Romney.jpg"
     },
     "endings_enabled": true,
     "ending_data": {
