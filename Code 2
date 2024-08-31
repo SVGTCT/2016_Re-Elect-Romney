@@ -175,7 +175,7 @@ campaignTrail_temp.questions_json = [
         "pk": 123500,
         "fields": {
             "priority": 1,
-            "description": "As the campaign reaches its ending moments, it's time to look back to something you did early in your term. To what extent will you comment on your replacement of Obamacare with a much more limited Americare, fulfilling one of your 2012 campaign promises?",
+            "description": "As the campaign reaches its ending moments, it's time to look back to something you did early in your term. To what extent will you comment on your replacement of Obamacare with a much more limited Americare, which raised the Medicare eligibility aid, fulfilling one of your 2012 campaign promises?",
             "likelihood": 1
         }
     },
