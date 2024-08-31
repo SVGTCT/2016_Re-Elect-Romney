@@ -214,7 +214,7 @@ jet_data = {
     "backgroundImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mitt_Romney_by_Gage_Skidmore_5.jpg/320px-Mitt_Romney_by_Gage_Skidmore_5.jpg",
     "endingTextColor": "#ffffff",
     "customQuote": "\"When it comes to pinning blame, pin the tail on the donkeys.\" ─ Mitt Romney",
-    "gameTitle": "NEW CAMPAIGN TRAIL"
+    "gameTitle": "THE RE-ELECTION TRAIL"
 }
 
 //#startcode
@@ -454,20 +454,20 @@ var soundtracks = {
     name: "Re-Elect Romney: The Tunes",
     tracklist: [
       {
-        "name": "Save A Horse (Ride A Cowboy) - Big & Rich",
-        "url": "https://audio.jukehost.co.uk/ZKp5GfKd9NRaQzxhuKFOz4R8fznvU1UH"
-      },
-      {
         "name": "As Good As I Once Was - Toby Keith",
         "url": "https://audio.jukehost.co.uk/BYWAQBvCynBP6dY1ysOeABbptEgv7NzF"
+      },
+      {
+        "name": "Songs About Me - Trace Adkins",
+        "url": "https://audio.jukehost.co.uk/txC7Vp5l0lGgwvF3b9RNhQQ4bXGpaKlx"
       },
       {
         "name": "You've Got to Stand for Something - Aaron Tippin",
         "url": "https://audio.jukehost.co.uk/9rHqfZnGJ3EZPy8ond6kcv1eSQzrWWor"
       },
       {
-        "name": "Songs About Me - Trace Adkins",
-        "url": "https://audio.jukehost.co.uk/txC7Vp5l0lGgwvF3b9RNhQQ4bXGpaKlx"
+        "name": "Save A Horse (Ride A Cowboy) - Big & Rich",
+        "url": "https://audio.jukehost.co.uk/ZKp5GfKd9NRaQzxhuKFOz4R8fznvU1UH"
       },
       {
         "name": "Somethin' 'Bout A Truck - Kip Moore",
