@@ -211,16 +211,16 @@ jet_data = {
     "containerColor": "#ffa3a3",
     "innerWindowColor": "#ffebeb",
     "bannerImageUrl": "https://i.postimg.cc/N0yb9X7m/Banners.png",
-    "backgroundImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mitt_Romney_by_Gage_Skidmore_5.jpg/320px-Mitt_Romney_by_Gage_Skidmore_5.jpg",
+    "backgroundImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Us_troops_in_syria.jpg",
     "endingTextColor": "#ffffff",
     "customQuote": "\"When it comes to pinning blame, pin the tail on the donkeys.\" ─ Mitt Romney",
-    "gameTitle": "THE RE-ELECTION TRAIL"
+    "gameTitle": "Re-Elect_Romney"
 }
 
 //#startcode
 
 
-corrr = '\n              <h2>NEW CAMPAIGN TRAIL</h2><font id="wittyquote" size="4" color="white"><em>"When it comes to pinning blame, pin the tail on the donkeys." ─ Mitt Romney</em></font>\n            ';
+corrr = '\n              <h2>THE RE-ELECTION TRAIL</h2><font id="wittyquote" size="4" color="white"><em>"When it comes to pinning blame, pin the tail on the donkeys." ─ Mitt Romney</em></font>\n            ';
 
 
 nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#d94f3f";
@@ -235,7 +235,7 @@ $(".container")[0].style.backgroundColor = "#ffa3a3";
 
 document.getElementById("header").src = "https://i.postimg.cc/N0yb9X7m/Banners.png";
 
-document.body.background = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mitt_Romney_by_Gage_Skidmore_5.jpg/320px-Mitt_Romney_by_Gage_Skidmore_5.jpg";
+document.body.background = "https://upload.wikimedia.org/wikipedia/commons/4/49/Us_troops_in_syria.jpg";
 
 document.head.innerHTML += "<style>#results_container {color:#ffffff;} .inner_window_w_desc {background-color:#ffebeb!important;}</style>";
 
